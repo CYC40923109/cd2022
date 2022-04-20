@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923109 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-06T10:01:26+08:00</updated><entry><title>w6</title><link href="./w6_40923109.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-06T10:01:26+08:00</updated><author><name>周玥辰</name></author><id>tag:None,2020-08-13:./w6_40923109.html</id><content type="html">&lt;p&gt;學習如何使用leo修改pelican新建blog&lt;/p&gt;
-</content><category term="Misc"></category><category term="w6"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923109 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T03:07:30+08:00</updated><entry><title>w8</title><link href="./midterm.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T03:07:30+08:00</updated><author><name>周玥辰</name></author><id>tag:None,2020-08-13:./midterm.html</id><summary type="html">&lt;p&gt;使用指定繪圖軟體繪製零件並組裝&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;使用指定繪圖軟體繪製零件並組裝&lt;/p&gt;
+
+
+&lt;h2&gt;分配:&lt;/h2&gt;
+&lt;p&gt;NX:40923111、40923122、40923146&lt;/p&gt;
+&lt;p&gt;Onshape:40923115、40923114&lt;/p&gt;
+&lt;p&gt;Solvespace:40923148、40923129、40923109&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;流程:&lt;/h2&gt;
+&lt;p&gt;1.w8頁面下載零件檔。&lt;/p&gt;
+&lt;p&gt;2.使用分配到的繪圖軟體繪製零件。&lt;/p&gt;
+&lt;p&gt;3.零件組合後輸出成STL檔。&lt;/p&gt;
+&lt;p&gt;4.將STL檔匯入CoppeliaSim。&lt;/p&gt;
+&lt;p&gt;5.使用CoppeliaSim讓三軸作動。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;被分配到了Solvespace這個繪圖軟體，對它的認知度是0%，畢竟上學期沒被分到，沒想到該來的還是來了，它其實很有趣，但又很麻煩，不方便，讓人有點火大。&lt;/p&gt;
+&lt;p&gt;經過了一番折騰，看了它的教程，也自己仔細地摸索過了，不知道是因為不熟悉還是我對它還不完全了解...有夠難用，讓人暴躁不已，我的筆電和滑鼠差點就要換代了。&lt;/p&gt;
+&lt;p&gt;雖然我現在可以把Solvespace的圖畫的比其他沒研究過的人精緻了這麼一點點，不果看見它旁邊的圖層堆得跟喜馬拉雅山一樣高還是覺得挺頭痛的，而且我也只會些基礎的，感覺這個軟體的真正精髓我還沒接觸到，還嘗試了組合，結果是果然不會，失敗。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gmnfuedutw-my.sharepoint.com/:f:/r/personal/40923148_gm_nfu_edu_tw/Documents/%E6%9C%9F%E4%B8%AD?csf=1&amp;amp;web=1&amp;amp;e=jcgcFT"&gt;零件檔&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022"></category></entry><entry><title>w6</title><link href="./w6_40923109.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T03:01:32+08:00</updated><author><name>周玥辰</name></author><id>tag:None,2020-08-13:./w6_40923109.html</id><summary type="html">&lt;p&gt;學習如何使用leo修改pelican新建blog&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;學習如何使用leo修改pelican新建blog&lt;/p&gt;
+
+
+&lt;hr&gt;
+&lt;h2&gt;目標:&lt;/h2&gt;
+&lt;p&gt;將pelican設定好，並將原本頁面改為w6，以便查驗。&lt;/p&gt;
+&lt;p&gt;又是新的一個程式，還算簡單，上手後就會覺得滿不錯用的。&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022"></category></entry></feed>
