@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923109 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T03:07:30+08:00</updated><entry><title>w8</title><link href="./midterm.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T03:07:30+08:00</updated><author><name>周玥辰</name></author><id>tag:None,2020-08-13:./midterm.html</id><summary type="html">&lt;p&gt;使用指定繪圖軟體繪製零件並組裝&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923109 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T10:45:48+08:00</updated><entry><title>w8</title><link href="./midterm.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T03:07:30+08:00</updated><author><name>周玥辰</name></author><id>tag:None,2020-08-13:./midterm.html</id><summary type="html">&lt;p&gt;使用指定繪圖軟體繪製零件並組裝&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;使用指定繪圖軟體繪製零件並組裝&lt;/p&gt;
 
 
@@ -26,4 +26,11 @@
 &lt;hr&gt;
 &lt;h2&gt;目標:&lt;/h2&gt;
 &lt;p&gt;將pelican設定好，並將原本頁面改為w6，以便查驗。&lt;/p&gt;
-&lt;p&gt;又是新的一個程式，還算簡單，上手後就會覺得滿不錯用的。&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022"></category></entry></feed>
+&lt;p&gt;又是新的一個程式，還算簡單，上手後就會覺得滿不錯用的。&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022"></category></entry><entry><title>w7_summary</title><link href="./w7_summary.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T10:45:48+08:00</updated><author><name>周玥辰</name></author><id>tag:None,2020-08-13:./w7_summary.html</id><summary type="html">&lt;p&gt;scarysim&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;scarysim&lt;/p&gt;
+
+
+&lt;hr&gt;
+&lt;h2&gt;目標:&lt;/h2&gt;
+&lt;p&gt;按照w7頁面老師給的指示將scarysim clone進隨身系統，嘗試修改參屬史的零件無干涉運轉。&lt;/p&gt;
+&lt;p&gt;嘗試中，目前不成功。&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022"></category></entry></feed>
